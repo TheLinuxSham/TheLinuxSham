@@ -15,11 +15,11 @@ I would love to learn the C programming language on embedded systems in the futu
    <br>
 </p> 
 
-- 🔭 I’m currently working on a fitness app for Android and iOs.
+- 🔭 I’m currently working on a fitness app for Android and iOS.
 
-- 🌱 I’m currently learning **fullstack development with Go plus Templ, HTMX and TailwindCss. Will also do a deep dive into mobile app development with Flutter at some point.**
+- 🌱 I’m currently learning **fullstack development with Go plus Templ and HTMX. Will also do a deep dive into mobile app development with Flutter at some point.**
 
-- ⚡ Fun fact: **I'm afraid of Library-Updates...**
+- ⚡ Fun fact: **I'm afraid of Dependency-Updates...**
 
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/jan-schneider-6b7a59252/)
 
