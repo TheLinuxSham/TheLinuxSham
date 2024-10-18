@@ -54,4 +54,4 @@ I would love to learn the C programming language on embedded systems in the futu
 </p> 
 
 ### I like to do Open Source Software in my free time. Consider supporting me:
-<p><a href="buymeacoffee.com/janschneider"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/janschneider" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/janschneider"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/janschneider" /></a></p><br><br>
