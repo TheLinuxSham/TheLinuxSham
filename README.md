@@ -1,25 +1,35 @@
-<h1 align="center">Oh Hello there 👋, I'm Jan Schneider</h1>
+<h1 align="center">Oh Hello There 👋, I'm Jan Schneider</h1>
 
-An excited Data Science Student from Germany. I like programming and progressing my skills. I love using open source software and aspire to give back to the community in some sort of way in the future.
+A guy from Germany who studied Data Science Management. I like programming and improving my skills. I love using open-source software and aspire to give back to the community in some way in the future.
 
 I have been coding:
 - Bash scripts for Linux
-- Automation scripts and Machine Learning programs in Python
-- Backend Services and Desktop Applications in Java
-- Fullstack applications in Go
-- Mobile app development with Dart and Flutter
+- Automation scripts and machine-learning programs in Python
+- Projects with AI on Image-to-Text and Natural Language Generation
+- Backend services and desktop applications in Java
+- Full-stack applications in Go
 
-I would love to learn the C programming language on embedded systems in the future.
+When time allows, I enjoy learning the C programming language: I find it very aesthetic and it teaches me a lot. It also lets me do amazing things with the ESP32s and NiceNanos I have lying around from the DIY split keyboards I built and never get to use otherwise. 🤓
 
- <p>
+<p>
    <br>
 </p> 
 
-- 🔭 I’m currently working on a fitness app for Android and iOS.
+- 🔭 I’m currently working on a **Music-Player App for Android with Kotlin and Jetpack Compose.**
 
-- 🌱 I’m currently learning **fullstack development with Go plus Templ and HTMX. Will also do a deep dive into mobile app development with Flutter at some point.**
+- 🌱 I’m currently learning **C.**
 
 - ⚡ Fun fact: **I'm afraid of Dependency-Updates...**
+
+<p>
+   <br>
+</p> 
+
+I have many repositories kept private because I find them unfinished and haven't had time to continue working on them. 🥸
+
+<p>
+   <br>
+</p> 
 
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/jan-schneider-6b7a59252/)
 
