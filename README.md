@@ -9,7 +9,7 @@ I have been coding:
 - Backend services and desktop applications in Java
 - Full-stack applications in Go
 
-When time allows, I enjoy learning the C programming language: I find it very aesthetic and it teaches me a lot. It also lets me do amazing things with the ESP32s and NiceNanos I have lying around from the DIY split keyboards I built and never get to use otherwise. 🤓
+When time allows, I enjoy learning the C programming language: I want to learn how to write robust code and how everything works with less abstractions. It also lets me do amazing things with the ESP32s and NiceNanos I have lying around from the DIY split keyboards I built and never get to use otherwise. 🤓
 
 <p>
    <br>
